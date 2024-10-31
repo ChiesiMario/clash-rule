@@ -8,6 +8,7 @@ payload:
 - PROCESS-NAME,BackupandSync
 - PROCESS-NAME,git-remote-https
 - PROCESS-NAME,git
+- PROCESS-NAME,GitHubDesktop
 # 域名
 - DOMAIN-SUFFIX,video.twimg.com
 - DOMAIN-SUFFIX,mypikpak.com
