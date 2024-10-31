@@ -15,10 +15,12 @@ payload:
 - DOMAIN-SUFFIX,storage.googleapis.com
 - DOMAIN-SUFFIX,dl.google.com
 - DOMAIN-SUFFIX,dl.l.google.com
+- DOMAIN-SUFFIX,video.twimg.com
 - DOMAIN-SUFFIX,googleusercontent.com
 - PROCESS-NAME,Telegram
 - PROCESS-NAME,64Gram Desktop
 - PROCESS-NAME,DropboxMacUpdate
 - PROCESS-NAME,Dropbox
 - PROCESS-NAME,BackupandSync
+- PROCESS-NAME,git-remote-https
 - PROCESS-NAME,git
