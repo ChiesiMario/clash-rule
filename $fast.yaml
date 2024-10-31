@@ -1,10 +1,9 @@
-# 流量小，需要更快速度
+# NAME: *流量小，需要更快速度
 payload:
 - DOMAIN,api.telegram.org
 - DOMAIN,startpage.com
 - DOMAIN-KEYWORD,startpage.com
 - DOMAIN,rarbgmirror.com
-- DOMAIN-KEYWORD,rarbgmirror.com
 - DOMAIN,rarbg.com
 - DOMAIN-KEYWORD,rarbg.com
 - DOMAIN-KEYWORD,yugogo.xyz
@@ -25,5 +24,3 @@ payload:
 - DOMAIN-SUFFIX,poecdn.net
 - DOMAIN-KEYWORD,tmdb.org
 - DOMAIN-KEYWORD,loli
-- DOMAIN-KEYWORD,sm.ms
-- DOMAIN,sm.ms

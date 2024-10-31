@@ -1,4 +1,4 @@
-# 直連
+# NAME: *直連
 payload:
 # Cloudflare Warp IP
 - IP-CIDR,162.159.192.0/24
