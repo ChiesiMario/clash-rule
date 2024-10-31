@@ -9,15 +9,6 @@ payload:
 - IP-CIDR,188.114.98.0/24
 - IP-CIDR,188.114.99.0/24
 # Other
-- DOMAIN,deepl.com
-- DOMAIN,www.cdbao.net
-- DOMAIN-KEYWORD,cdbao.net
+- DOMAIN-SUFFIX,cdbao.net
 - DOMAIN-SUFFIX,goofish.pro
 - DOMAIN-SUFFIX,123624.com
-- DOMAIN,123624.com
-- PROCESS-NAME,clouddrive
-- PROCESS-NAME,kubectl
-- PROCESS-NAME,rustdesk
-- PROCESS-NAME,syncthing
-- PROCESS-NAME,tailscaled
-- PROCESS-NAME,Tailscale
