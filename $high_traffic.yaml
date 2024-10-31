@@ -1,5 +1,14 @@
 # 大流量
 payload:
+# 進程
+- PROCESS-NAME,Telegram
+- PROCESS-NAME,64Gram Desktop
+- PROCESS-NAME,DropboxMacUpdate
+- PROCESS-NAME,Dropbox
+- PROCESS-NAME,BackupandSync
+- PROCESS-NAME,git-remote-https
+- PROCESS-NAME,git
+# 域名
 - DOMAIN-SUFFIX,video.twimg.com
 - DOMAIN-SUFFIX,mypikpak.com
 - DOMAIN-SUFFIX,pikpak.com
@@ -17,10 +26,3 @@ payload:
 - DOMAIN-SUFFIX,dl.l.google.com
 - DOMAIN-SUFFIX,video.twimg.com
 - DOMAIN-SUFFIX,googleusercontent.com
-- PROCESS-NAME,Telegram
-- PROCESS-NAME,64Gram Desktop
-- PROCESS-NAME,DropboxMacUpdate
-- PROCESS-NAME,Dropbox
-- PROCESS-NAME,BackupandSync
-- PROCESS-NAME,git-remote-https
-- PROCESS-NAME,git
