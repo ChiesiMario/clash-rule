@@ -1,26 +1,12 @@
 # 流量小，需要更快速度
 payload:
-- DOMAIN,api.telegram.org
-- DOMAIN,startpage.com
-- DOMAIN-KEYWORD,startpage.com
-- DOMAIN,rarbgmirror.com
-- DOMAIN,rarbg.com
-- DOMAIN-KEYWORD,rarbg.com
-- DOMAIN-KEYWORD,yugogo.xyz
+-DOMAIN-SUFFIX,startpage.com
 - DOMAIN-SUFFIX,services.mozilla.com
 - DOMAIN-SUFFIX,chat.signal.org
 - DOMAIN-SUFFIX,mail.proton.me
-- DOMAIN-SUFFIX,bard.google.com
 - DOMAIN-SUFFIX,twitter.com
-- DOMAIN-SUFFIX,twimg.com
-- DOMAIN,www.google.com
-- DOMAIN,www.google.com.hk
-- DOMAIN,accounts.google.com
 - DOMAIN-SUFFIX,feedly.com
-- DOMAIN-SUFFIX,leiting.io
-- DOMAIN,www2.deepl.com
-- DOMAIN-SUFFIX,deepl.com
-- DOMAIN,translate.google.com
-- DOMAIN-SUFFIX,poecdn.net
-- DOMAIN-KEYWORD,tmdb.org
-- DOMAIN-KEYWORD,loli
+- DOMAIN-SUFFIX.deepl.com
+- DOMAIN-SUFFIX,translate.google.com
+- DOMAIN-SUFFIX,poe.net
+-DOMAIN-SUFFIX,tmdb.org
