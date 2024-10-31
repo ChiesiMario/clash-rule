@@ -21,4 +21,4 @@ payload:
 - PROCESS-NAME,DropboxMacUpdate
 - PROCESS-NAME,Dropbox
 - PROCESS-NAME,BackupandSync
-- PROCESS-NAME,git-remote-https
+- PROCESS-NAME,git
