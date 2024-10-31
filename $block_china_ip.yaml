@@ -1,5 +1,0 @@
-# 對「中國大陸」 IP 封鎖
-payload:
-- DOMAIN-SUFFIX,engadget.com
-- DOMAIN-SUFFIX,yimg.com
-- DOMAIN-SUFFIX,ip2world.com
