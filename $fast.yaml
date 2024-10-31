@@ -1,4 +1,4 @@
-# NAME: *流量小，需要更快速度
+# 流量小，需要更快速度
 payload:
 - DOMAIN,api.telegram.org
 - DOMAIN,startpage.com

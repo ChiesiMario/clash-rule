@@ -1,4 +1,4 @@
-# NAME: *大流量
+# 大流量
 payload:
 - DOMAIN-SUFFIX,video.twimg.com
 - DOMAIN-SUFFIX,mypikpak.com
