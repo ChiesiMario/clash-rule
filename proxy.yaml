@@ -1,0 +1,10 @@
+# 需要使用代理
+payload:
+- DOMAIN-KEYWORD,sm.ms
+- DOMAIN-KEYWORD,gstatic.com
+- DOMAIN-KEYWORD,googleapis.com
+- DOMAIN,gigabyte.com
+- DOMAIN-KEYWORD,browserleaks.com
+- DOMAIN-KEYWORD,315lz.com
+- DOMAIN,315lz.com
+- IP-CIDR,46.20.109.253/24
