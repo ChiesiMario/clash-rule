@@ -25,7 +25,8 @@ payload:
 - DOMAIN-SUFFIX,storage.googleapis.com
 - DOMAIN-SUFFIX,dl.google.com
 - DOMAIN-SUFFIX,dl.l.google.com
-- DOMAIN-SUFFIX,video.twimg.com
 - DOMAIN-SUFFIX,googleusercontent.com
 - DOMAIN-SUFFIX,downloads.1password.com
 - DOMAIN-SUFFIX,c.1password.com
+
+- DOMAIN-SUFFIX,f-droid.org
