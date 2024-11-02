@@ -32,3 +32,4 @@ payload:
 - DOMAIN-SUFFIX,fastly.net
 - DOMAIN-SUFFIX,na.cx
 - DOMAIN-SUFFIX,googlevideo.com
+- DOMAIN-SUFFIX,api.github.com
