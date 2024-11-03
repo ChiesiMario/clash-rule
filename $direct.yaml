@@ -8,11 +8,11 @@ payload:
 - IP-CIDR,188.114.97.0/24
 - IP-CIDR,188.114.98.0/24
 - IP-CIDR,188.114.99.0/24
-# 進程
-- PROCESS-NAME,Grass
+# Grass
+- DOMAIN-SUFFIX,aws-wynd.com
+- DOMAIN-SUFFIX,cloudfront.net
+- DOMAIN-SUFFIX,wynd.network
 # Other
 - DOMAIN-SUFFIX,cdbao.net
 - DOMAIN-SUFFIX,goofish.pro
 - DOMAIN-SUFFIX,123624.com
-- DOMAIN-SUFFIX,aws-wynd.com
-- DOMAIN-SUFFIX,cloudfront.net
