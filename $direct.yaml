@@ -8,6 +8,8 @@ payload:
 - IP-CIDR,188.114.97.0/24
 - IP-CIDR,188.114.98.0/24
 - IP-CIDR,188.114.99.0/24
+# 進程
+- PROCESS-NAME,Grass
 # Other
 - DOMAIN-SUFFIX,cdbao.net
 - DOMAIN-SUFFIX,goofish.pro
