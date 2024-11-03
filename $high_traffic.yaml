@@ -9,6 +9,20 @@ payload:
 - PROCESS-NAME,git-remote-https
 - PROCESS-NAME,git
 - PROCESS-NAME,GitHubDesktop
+- PROCESS-NAME,Git for Windows
+- PROCESS-NAME,com.android.vending
+- PROCESS-NAME,com.google.android.apps.photos
+- PROCESS-NAME,org.telegram.messenger
+- PROCESS-NAME,com.exteragram.messenger
+- PROCESS-NAME,app.rvx.android.youtube
+- PROCESS-NAME,com.google.android.youtube
+- PROCESS-NAME,com.google.android.apps.docs
+- PROCESS-NAME,com.dropbox.android
+- PROCESS-NAME,org.fdroid.fdroid
+- PROCESS-NAME,com.machiav3lli.fdroid
+- PROCESS-NAME,in.sunilpaulmathew.izzyondroid
+- PROCESS-NAME,com.aurora.store
+- PROCESS-NAME,org.telegram.plus
 # 正則
 - DOMAIN-REGEX,raw\.github.*?\.([a-zA-Z]{1,6})$
 - DOMAIN-REGEX,video-downloads\..*?\.([a-zA-Z]{1,6})$
