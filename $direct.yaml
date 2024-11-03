@@ -9,6 +9,8 @@ payload:
 - IP-CIDR,188.114.98.0/24
 - IP-CIDR,188.114.99.0/24
 # Grass
+- DOMAIN-SUFFIX,getgrass.io
+- DOMAIN-SUFFIX,grass.io
 - DOMAIN-SUFFIX,aws-wynd.com
 - DOMAIN-SUFFIX,cloudfront.net
 - DOMAIN-SUFFIX,wynd.network
