@@ -23,12 +23,6 @@ payload:
 - PROCESS-NAME,in.sunilpaulmathew.izzyondroid
 - PROCESS-NAME,com.aurora.store
 - PROCESS-NAME,org.telegram.plus
-# 正則
-- DOMAIN-REGEX,raw\.github.*?\.([a-zA-Z]{1,6})$
-- DOMAIN-REGEX,video-downloads\..*?\.([a-zA-Z]{1,6})$
-- DOMAIN-REGEX,downloads\..*?\.([a-zA-Z]{1,6})$
-- DOMAIN-REGEX,dl\..*?\.([a-zA-Z]{1,6})$
-- DOMAIN-REGEX,cloudflarestorage\.([a-zA-Z]{1,6})$
 # 域名
 - DOMAIN-SUFFIX,video.twimg.com
 - DOMAIN-SUFFIX,mypikpak.com
